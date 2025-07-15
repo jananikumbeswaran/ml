@@ -1,4 +1,4 @@
 fastapi
-sklearn
+scikitlearn
 xgboost
 pandas
